@@ -163,3 +163,9 @@ ul {
         display: flex;
     }
    }
+   .definicao {
+    display: block;
+    width: 100vw;
+    grid-area: def;
+   }
+   
